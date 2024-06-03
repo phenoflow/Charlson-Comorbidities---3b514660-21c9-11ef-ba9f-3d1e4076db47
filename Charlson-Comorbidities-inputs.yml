@@ -1,0 +1,975 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/charlson-comorbidities-articulr---primary.py
+inputModule3:
+  class: File
+  path: python/charlson-comorbidities-subacute---primary.py
+inputModule4:
+  class: File
+  path: python/intestinal-charlson-comorbidities---primary.py
+inputModule5:
+  class: File
+  path: python/charlson-comorbidities-depletion---primary.py
+inputModule6:
+  class: File
+  path: python/charlson-comorbidities-sleep---primary.py
+inputModule7:
+  class: File
+  path: python/charlson-comorbidities-neopl---primary.py
+inputModule8:
+  class: File
+  path: python/charlson-comorbidities-unspecif---primary.py
+inputModule9:
+  class: File
+  path: python/charlson-comorbidities-spleen---primary.py
+inputModule10:
+  class: File
+  path: python/charlson-comorbidities-erythraemia---primary.py
+inputModule11:
+  class: File
+  path: python/charlson---primary.py
+inputModule12:
+  class: File
+  path: python/charlson-comorbidities-chron---primary.py
+inputModule13:
+  class: File
+  path: python/myelomonocytic-charlson-comorbidities---primary.py
+inputModule14:
+  class: File
+  path: python/charlson-comorbidities-tumour---primary.py
+inputModule15:
+  class: File
+  path: python/tonsillar-charlson-comorbidities---primary.py
+inputModule16:
+  class: File
+  path: python/charlson-comorbidities-vagina---primary.py
+inputModule17:
+  class: File
+  path: python/charlson-comorbidities-limbunspfd---primary.py
+inputModule18:
+  class: File
+  path: python/charlson-comorbidities-trunkunspecified---primary.py
+inputModule19:
+  class: File
+  path: python/charlson-comorbidities-neoplsm---primary.py
+inputModule20:
+  class: File
+  path: python/systemic-charlson-comorbidities---primary.py
+inputModule21:
+  class: File
+  path: python/central-charlson-comorbidities---primary.py
+inputModule22:
+  class: File
+  path: python/charlson-comorbidities-abdoman---primary.py
+inputModule23:
+  class: File
+  path: python/charlson-comorbidities-angiosarcoma---primary.py
+inputModule24:
+  class: File
+  path: python/charlson-comorbidities-cheek---primary.py
+inputModule25:
+  class: File
+  path: python/charlson-comorbidities-orbit---primary.py
+inputModule26:
+  class: File
+  path: python/charlson-comorbidities-bagassosis---primary.py
+inputModule27:
+  class: File
+  path: python/popliteal-charlson-comorbidities---primary.py
+inputModule28:
+  class: File
+  path: python/charlson-comorbidities-cancer---primary.py
+inputModule29:
+  class: File
+  path: python/abdominal-charlson-comorbidities---primary.py
+inputModule30:
+  class: File
+  path: python/charlson-comorbidities-endocervix---primary.py
+inputModule31:
+  class: File
+  path: python/charlson-comorbidities-diffuse---primary.py
+inputModule32:
+  class: File
+  path: python/charlson-comorbidities-immunodeficiency---primary.py
+inputModule33:
+  class: File
+  path: python/short-charlson-comorbidities---primary.py
+inputModule34:
+  class: File
+  path: python/charlson-comorbidities-reticuloendotheliosis---primary.py
+inputModule35:
+  class: File
+  path: python/charlson-comorbidities-forearm---primary.py
+inputModule36:
+  class: File
+  path: python/charlson-comorbidities-bcell---primary.py
+inputModule37:
+  class: File
+  path: python/pancreatic-charlson-comorbidities---primary.py
+inputModule38:
+  class: File
+  path: python/charlson-comorbidities-forehead---primary.py
+inputModule39:
+  class: File
+  path: python/charlson-comorbidities-sclerosis---primary.py
+inputModule40:
+  class: File
+  path: python/charlson-comorbidities-osteodystrophy---primary.py
+inputModule41:
+  class: File
+  path: python/congestive-charlson-comorbidities---primary.py
+inputModule42:
+  class: File
+  path: python/rheumatoid-charlson-comorbidities---primary.py
+inputModule43:
+  class: File
+  path: python/charlson-comorbidities-asthmaticu---primary.py
+inputModule44:
+  class: File
+  path: python/charlson-comorbidities-respiratory---primary.py
+inputModule45:
+  class: File
+  path: python/charlson-comorbidities-polyarthritis---primary.py
+inputModule46:
+  class: File
+  path: python/charlson-comorbidities-lymphoma---primary.py
+inputModule47:
+  class: File
+  path: python/charlson-comorbidities-pneumoconiosis---primary.py
+inputModule48:
+  class: File
+  path: python/charlson-comorbidities-multi---primary.py
+inputModule49:
+  class: File
+  path: python/charlson-comorbidities-majora---primary.py
+inputModule50:
+  class: File
+  path: python/pituitary-charlson-comorbidities---primary.py
+inputModule51:
+  class: File
+  path: python/charlson-comorbidities-cortex---primary.py
+inputModule52:
+  class: File
+  path: python/charlson-comorbidities-lipstick---primary.py
+inputModule53:
+  class: File
+  path: python/primary-charlson-comorbidities---primary.py
+inputModule54:
+  class: File
+  path: python/lymphatic-charlson-comorbidities---primary.py
+inputModule55:
+  class: File
+  path: python/charlson-comorbidities-canthu---primary.py
+inputModule56:
+  class: File
+  path: python/charlson-comorbidities-silica---primary.py
+inputModule57:
+  class: File
+  path: python/charlson-comorbidities---primary.py
+inputModule58:
+  class: File
+  path: python/congenital-charlson-comorbidities---primary.py
+inputModule59:
+  class: File
+  path: python/charlson-comorbidities-phalange---primary.py
+inputModule60:
+  class: File
+  path: python/occipital-charlson-comorbidities---primary.py
+inputModule61:
+  class: File
+  path: python/birdfancier-charlson-comorbidities---primary.py
+inputModule62:
+  class: File
+  path: python/charlson-comorbidities-lymphosarcoma---primary.py
+inputModule63:
+  class: File
+  path: python/pharyngeal-charlson-comorbidities---primary.py
+inputModule64:
+  class: File
+  path: python/charlson-comorbidities-unspcf---primary.py
+inputModule65:
+  class: File
+  path: python/charlson-comorbidities-function---primary.py
+inputModule66:
+  class: File
+  path: python/charlson-comorbidities-greater---primary.py
+inputModule67:
+  class: File
+  path: python/charlson-comorbidities-melanoma---primary.py
+inputModule68:
+  class: File
+  path: python/charlson-comorbidities-tracheobronchitis---primary.py
+inputModule69:
+  class: File
+  path: python/charlson-comorbidities-paraplegia---primary.py
+inputModule70:
+  class: File
+  path: python/charlson-comorbidities-induced---primary.py
+inputModule71:
+  class: File
+  path: python/charlson-comorbidities-operation---primary.py
+inputModule72:
+  class: File
+  path: python/charlson-comorbidities-isthmu---primary.py
+inputModule73:
+  class: File
+  path: python/gastrointestinal-charlson-comorbidities---primary.py
+inputModule74:
+  class: File
+  path: python/charlson-comorbidities-cardia---primary.py
+inputModule75:
+  class: File
+  path: python/charlson-comorbidities-uncomplicated---primary.py
+inputModule76:
+  class: File
+  path: python/charlson-comorbidities-flexure---primary.py
+inputModule77:
+  class: File
+  path: python/pillar-charlson-comorbidities---primary.py
+inputModule78:
+  class: File
+  path: python/charlson-comorbidities-letterersiwe---primary.py
+inputModule79:
+  class: File
+  path: python/charlson-comorbidities-disseminated---primary.py
+inputModule80:
+  class: File
+  path: python/haematopoietic-charlson-comorbidities---primary.py
+inputModule81:
+  class: File
+  path: python/charlson-comorbidities-alveolitis---primary.py
+inputModule82:
+  class: File
+  path: python/charlson-comorbidities-abnormsnec---primary.py
+inputModule83:
+  class: File
+  path: python/charlson-comorbidities-siderosis---primary.py
+inputModule84:
+  class: File
+  path: python/charlson-comorbidities-perineum---primary.py
+inputModule85:
+  class: File
+  path: python/leukaemic-charlson-comorbidities---primary.py
+inputModule86:
+  class: File
+  path: python/charlson-comorbidities-mesothelioma---primary.py
+inputModule87:
+  class: File
+  path: python/charlson-comorbidities-cornea---primary.py
+inputModule88:
+  class: File
+  path: python/adrenal-charlson-comorbidities---primary.py
+inputModule89:
+  class: File
+  path: python/charlson-comorbidities-atrophy---primary.py
+inputModule90:
+  class: File
+  path: python/charlson-comorbidities-carcinoma---primary.py
+inputModule91:
+  class: File
+  path: python/charlson-comorbidities-biliary---primary.py
+inputModule92:
+  class: File
+  path: python/charlson-comorbidities-fibrositis---primary.py
+inputModule93:
+  class: File
+  path: python/portal-charlson-comorbidities---primary.py
+inputModule94:
+  class: File
+  path: python/charlson-comorbidities-predominance---primary.py
+inputModule95:
+  class: File
+  path: python/cutaneous-charlson-comorbidities---primary.py
+inputModule96:
+  class: File
+  path: python/ventricular-charlson-comorbidities---primary.py
+inputModule97:
+  class: File
+  path: python/subcortical-charlson-comorbidities---primary.py
+inputModule98:
+  class: File
+  path: python/charlson-comorbidities-membranoprolif---primary.py
+inputModule99:
+  class: File
+  path: python/recurrent-charlson-comorbidities---primary.py
+inputModule100:
+  class: File
+  path: python/charlson-comorbidities-cannabinosis---primary.py
+inputModule101:
+  class: File
+  path: python/immunoproliferative-charlson-comorbidities---primary.py
+inputModule102:
+  class: File
+  path: python/gastric-charlson-comorbidities---primary.py
+inputModule103:
+  class: File
+  path: python/charlson-comorbidities-result---primary.py
+inputModule104:
+  class: File
+  path: python/charlson-comorbidities-meatus---primary.py
+inputModule105:
+  class: File
+  path: python/charlson-comorbidities-bronchiectasis---primary.py
+inputModule106:
+  class: File
+  path: python/charlson-comorbidities-sulcu---primary.py
+inputModule107:
+  class: File
+  path: python/charlson-comorbidities-quadrant---primary.py
+inputModule108:
+  class: File
+  path: python/charlson-comorbidities-complication---primary.py
+inputModule109:
+  class: File
+  path: python/frontal-charlson-comorbidities---primary.py
+inputModule110:
+  class: File
+  path: python/charlson-comorbidities-erythematosus---primary.py
+inputModule111:
+  class: File
+  path: python/thyroid-charlson-comorbidities---primary.py
+inputModule112:
+  class: File
+  path: python/right-charlson-comorbidities---primary.py
+inputModule113:
+  class: File
+  path: python/charlson-comorbidities-epididymi---primary.py
+inputModule114:
+  class: File
+  path: python/charlson-comorbidities-emphysema---primary.py
+inputModule115:
+  class: File
+  path: python/vertebral-charlson-comorbidities---primary.py
+inputModule116:
+  class: File
+  path: python/inorganic-charlson-comorbidities---primary.py
+inputModule117:
+  class: File
+  path: python/thoracic-charlson-comorbidities---primary.py
+inputModule118:
+  class: File
+  path: python/axillary-charlson-comorbidities---primary.py
+inputModule119:
+  class: File
+  path: python/charlson-comorbidities-never---primary.py
+inputModule120:
+  class: File
+  path: python/charlson-comorbidities-third---primary.py
+inputModule121:
+  class: File
+  path: python/genitourinary-charlson-comorbidities---primary.py
+inputModule122:
+  class: File
+  path: python/charlson-comorbidities-dementiaalzheimer---primary.py
+inputModule123:
+  class: File
+  path: python/charlson-comorbidities-areola---primary.py
+inputModule124:
+  class: File
+  path: python/nonarticular-charlson-comorbidities---primary.py
+inputModule125:
+  class: File
+  path: python/choroid-charlson-comorbidities---primary.py
+inputModule126:
+  class: File
+  path: python/mediastinal-charlson-comorbidities---primary.py
+inputModule127:
+  class: File
+  path: python/charlson-comorbidities-carpal---primary.py
+inputModule128:
+  class: File
+  path: python/pelvic-charlson-comorbidities---primary.py
+inputModule129:
+  class: File
+  path: python/charlson-comorbidities-burkitt---primary.py
+inputModule130:
+  class: File
+  path: python/charlson-comorbidities-libmansacks---primary.py
+inputModule131:
+  class: File
+  path: python/rectosigmoid-charlson-comorbidities---primary.py
+inputModule132:
+  class: File
+  path: python/charlson-comorbidities-shoulder---primary.py
+inputModule133:
+  class: File
+  path: python/charlson-comorbidities-including---primary.py
+inputModule134:
+  class: File
+  path: python/charlson-comorbidities-bleeding---primary.py
+inputModule135:
+  class: File
+  path: python/endocervical-charlson-comorbidities---primary.py
+inputModule136:
+  class: File
+  path: python/charlson-comorbidities-month---primary.py
+inputModule137:
+  class: File
+  path: python/perianal-charlson-comorbidities---primary.py
+inputModule138:
+  class: File
+  path: python/spastic-charlson-comorbidities---primary.py
+inputModule139:
+  class: File
+  path: python/charlson-comorbidities-frenulum---primary.py
+inputModule140:
+  class: File
+  path: python/charlson-comorbidities-gallbladder---primary.py
+inputModule141:
+  class: File
+  path: python/pyloric-charlson-comorbidities---primary.py
+inputModule142:
+  class: File
+  path: python/charlson-comorbidities-medulla---primary.py
+inputModule143:
+  class: File
+  path: python/charlson-comorbidities-presenile---primary.py
+inputModule144:
+  class: File
+  path: python/charlson-comorbidities-eyeball---primary.py
+inputModule145:
+  class: File
+  path: python/mucopurulent-charlson-comorbidities---primary.py
+inputModule146:
+  class: File
+  path: python/charlson-comorbidities-epiglotti---primary.py
+inputModule147:
+  class: File
+  path: python/extrinsic-charlson-comorbidities---primary.py
+inputModule148:
+  class: File
+  path: python/charlson-comorbidities-osteoma---primary.py
+inputModule149:
+  class: File
+  path: python/ectopic-charlson-comorbidities---primary.py
+inputModule150:
+  class: File
+  path: python/female-charlson-comorbidities---primary.py
+inputModule151:
+  class: File
+  path: python/obstructive-charlson-comorbidities---primary.py
+inputModule152:
+  class: File
+  path: python/charlson-comorbidities-chloroma---primary.py
+inputModule153:
+  class: File
+  path: python/junctional-charlson-comorbidities---primary.py
+inputModule154:
+  class: File
+  path: python/charlson-comorbidities-nonhodgkin---primary.py
+inputModule155:
+  class: File
+  path: python/unknown-charlson-comorbidities---primary.py
+inputModule156:
+  class: File
+  path: python/charlson-comorbidities-restricts---primary.py
+inputModule157:
+  class: File
+  path: python/charlson-comorbidities-pylorus---primary.py
+inputModule158:
+  class: File
+  path: python/extrahepatic-charlson-comorbidities---primary.py
+inputModule159:
+  class: File
+  path: python/nephritic-charlson-comorbidities---primary.py
+inputModule160:
+  class: File
+  path: python/charlson-comorbidities-caecum---primary.py
+inputModule161:
+  class: File
+  path: python/charlson-comorbidities-larynx---primary.py
+inputModule162:
+  class: File
+  path: python/coccygeal-charlson-comorbidities---primary.py
+inputModule163:
+  class: File
+  path: python/charlson-comorbidities-night---primary.py
+inputModule164:
+  class: File
+  path: python/charlson-comorbidities-column---primary.py
+inputModule165:
+  class: File
+  path: python/charlson-comorbidities-heart---primary.py
+inputModule166:
+  class: File
+  path: python/charlson-comorbidities-polymyositis---primary.py
+inputModule167:
+  class: File
+  path: python/charlson-comorbidities-finger---primary.py
+inputModule168:
+  class: File
+  path: python/charlson-comorbidities-vestibule---primary.py
+inputModule169:
+  class: File
+  path: python/buccal-charlson-comorbidities---primary.py
+inputModule170:
+  class: File
+  path: python/charlson-comorbidities-felty's---primary.py
+inputModule171:
+  class: File
+  path: python/alcoholic-charlson-comorbidities---primary.py
+inputModule172:
+  class: File
+  path: python/gastrojejunal-charlson-comorbidities---primary.py
+inputModule173:
+  class: File
+  path: python/charlson-comorbidities-acquired---primary.py
+inputModule174:
+  class: File
+  path: python/external-charlson-comorbidities---primary.py
+inputModule175:
+  class: File
+  path: python/charlson-comorbidities-thigh---primary.py
+inputModule176:
+  class: File
+  path: python/charlson-comorbidities-attack---primary.py
+inputModule177:
+  class: File
+  path: python/charlson-comorbidities-metastas---primary.py
+inputModule178:
+  class: File
+  path: python/tympanic-charlson-comorbidities---primary.py
+inputModule179:
+  class: File
+  path: python/temporal-charlson-comorbidities---primary.py
+inputModule180:
+  class: File
+  path: python/charlson-comorbidities-scalp---primary.py
+inputModule181:
+  class: File
+  path: python/charlson-comorbidities-ulcer---primary.py
+inputModule182:
+  class: File
+  path: python/charlson-comorbidities-myeloma---primary.py
+inputModule183:
+  class: File
+  path: python/charlson-comorbidities-reticulosarcoma---primary.py
+inputModule184:
+  class: File
+  path: python/duodenal-charlson-comorbidities---primary.py
+inputModule185:
+  class: File
+  path: python/charlson-comorbidities-dementium---primary.py
+inputModule186:
+  class: File
+  path: python/nodular-charlson-comorbidities---primary.py
+inputModule187:
+  class: File
+  path: python/eyelid-charlson-comorbidities---primary.py
+inputModule188:
+  class: File
+  path: python/charlson-comorbidities-worker---primary.py
+inputModule189:
+  class: File
+  path: python/charlson-comorbidities-buttock---primary.py
+inputModule190:
+  class: File
+  path: python/charlson-comorbidities-classified---primary.py
+inputModule191:
+  class: File
+  path: python/charlson-comorbidities-spine---primary.py
+inputModule192:
+  class: File
+  path: python/sacral-charlson-comorbidities---primary.py
+inputModule193:
+  class: File
+  path: python/charlson-comorbidities-malignant---primary.py
+inputModule194:
+  class: File
+  path: python/charlson-comorbidities-uterus---primary.py
+inputModule195:
+  class: File
+  path: python/charlson-comorbidities-flaccid---primary.py
+inputModule196:
+  class: File
+  path: python/charlson-comorbidities-paraganglia---primary.py
+inputModule197:
+  class: File
+  path: python/charlson-comorbidities-scrotum---primary.py
+inputModule198:
+  class: File
+  path: python/follicular-charlson-comorbidities---primary.py
+inputModule199:
+  class: File
+  path: python/charlson-comorbidities-hemiplegia---primary.py
+inputModule200:
+  class: File
+  path: python/charlson-comorbidities-oesophagu---primary.py
+inputModule201:
+  class: File
+  path: python/charlson-comorbidities-rheumatism---primary.py
+inputModule202:
+  class: File
+  path: python/tracheobronchial-charlson-comorbidities---primary.py
+inputModule203:
+  class: File
+  path: python/charlson-comorbidities-fundu---primary.py
+inputModule204:
+  class: File
+  path: python/charlson-comorbidities-conjunctiva---primary.py
+inputModule205:
+  class: File
+  path: python/giant-charlson-comorbidities---primary.py
+inputModule206:
+  class: File
+  path: python/nephrotic-charlson-comorbidities---primary.py
+inputModule207:
+  class: File
+  path: python/persistent-charlson-comorbidities---primary.py
+inputModule208:
+  class: File
+  path: python/charlson-comorbidities-breast---primary.py
+inputModule209:
+  class: File
+  path: python/submandibular-charlson-comorbidities---primary.py
+inputModule210:
+  class: File
+  path: python/charlson-comorbidities-chest---primary.py
+inputModule211:
+  class: File
+  path: python/arteriosclerotic-charlson-comorbidities---primary.py
+inputModule212:
+  class: File
+  path: python/charlson-comorbidities-pericardium---primary.py
+inputModule213:
+  class: File
+  path: python/charlson-comorbidities-confirmed---primary.py
+inputModule214:
+  class: File
+  path: python/progressive-charlson-comorbidities---primary.py
+inputModule215:
+  class: File
+  path: python/charlson-comorbidities-scleroderma---primary.py
+inputModule216:
+  class: File
+  path: python/bronchial-charlson-comorbidities---primary.py
+inputModule217:
+  class: File
+  path: python/charlson-comorbidities-umbilicu---primary.py
+inputModule218:
+  class: File
+  path: python/charlson-comorbidities-hypopharynx---primary.py
+inputModule219:
+  class: File
+  path: python/independent-charlson-comorbidities---primary.py
+inputModule220:
+  class: File
+  path: python/charlson-comorbidities-periph---primary.py
+inputModule221:
+  class: File
+  path: python/charlson-comorbidities-asbestosis---primary.py
+inputModule222:
+  class: File
+  path: python/charlson-comorbidities-fever---primary.py
+inputModule223:
+  class: File
+  path: python/charlson-comorbidities-cirrhosis---primary.py
+inputModule224:
+  class: File
+  path: python/charlson-comorbidities-ureter---primary.py
+inputModule225:
+  class: File
+  path: python/charlson-comorbidities-clavicle---primary.py
+inputModule226:
+  class: File
+  path: python/charlson-comorbidities-accessory---primary.py
+inputModule227:
+  class: File
+  path: python/charlson-comorbidities-antrum---primary.py
+inputModule228:
+  class: File
+  path: python/charlson-comorbidities-eyebrow---primary.py
+inputModule229:
+  class: File
+  path: python/charlson-comorbidities-fungoide---primary.py
+inputModule230:
+  class: File
+  path: python/charlson-comorbidities-chondroma---primary.py
+inputModule231:
+  class: File
+  path: python/ethmoid-charlson-comorbidities---primary.py
+inputModule232:
+  class: File
+  path: python/charlson-comorbidities-sacrum---primary.py
+inputModule233:
+  class: File
+  path: python/charlson-comorbidities-overlap---primary.py
+inputModule234:
+  class: File
+  path: python/charlson-comorbidities-forms---primary.py
+inputModule235:
+  class: File
+  path: python/charlson-comorbidities-related---primary.py
+inputModule236:
+  class: File
+  path: python/membranous-charlson-comorbidities---primary.py
+inputModule237:
+  class: File
+  path: python/nephropathy-charlson-comorbidities---primary.py
+inputModule238:
+  class: File
+  path: python/chemical-charlson-comorbidities---primary.py
+inputModule239:
+  class: File
+  path: python/myeloid-charlson-comorbidities---primary.py
+inputModule240:
+  class: File
+  path: python/charlson-comorbidities-trachea---primary.py
+inputModule241:
+  class: File
+  path: python/charlson-comorbidities-labia---primary.py
+inputModule242:
+  class: File
+  path: python/charlson-comorbidities-sternum---primary.py
+inputModule243:
+  class: File
+  path: python/charlson-comorbidities-varice---primary.py
+inputModule244:
+  class: File
+  path: python/charlson-comorbidities-endometrium---primary.py
+inputModule245:
+  class: File
+  path: python/charlson-comorbidities-auricle---primary.py
+inputModule246:
+  class: File
+  path: python/charlson-comorbidities-liver---primary.py
+inputModule247:
+  class: File
+  path: python/charlson-comorbidities-thumb---primary.py
+inputModule248:
+  class: File
+  path: python/charlson-comorbidities-hypersensitivity---primary.py
+inputModule249:
+  class: File
+  path: python/charlson-comorbidities-histiocytosis---primary.py
+inputModule250:
+  class: File
+  path: python/charlson-comorbidities-rheumatica---primary.py
+inputModule251:
+  class: File
+  path: python/aortic-charlson-comorbidities---primary.py
+inputModule252:
+  class: File
+  path: python/charlson-comorbidities-scapula---primary.py
+inputModule253:
+  class: File
+  path: python/charlson-comorbidities-temple---primary.py
+inputModule254:
+  class: File
+  path: python/charlson-comorbidities-cerebrum---primary.py
+inputModule255:
+  class: File
+  path: python/charlson-comorbidities-condition---primary.py
+inputModule256:
+  class: File
+  path: python/myeloproliferative-charlson-comorbidities---primary.py
+inputModule257:
+  class: File
+  path: python/charlson-comorbidities-tcell---primary.py
+inputModule258:
+  class: File
+  path: python/cranial-charlson-comorbidities---primary.py
+inputModule259:
+  class: File
+  path: python/charlson-comorbidities-urethra---primary.py
+inputModule260:
+  class: File
+  path: python/parietal-charlson-comorbidities---primary.py
+inputModule261:
+  class: File
+  path: python/charlson-comorbidities-skull---primary.py
+inputModule262:
+  class: File
+  path: python/charlson-comorbidities-adnexa---primary.py
+inputModule263:
+  class: File
+  path: python/charlson-comorbidities-rectum---primary.py
+inputModule264:
+  class: File
+  path: python/charlson-comorbidities-lesser---primary.py
+inputModule265:
+  class: File
+  path: python/viral-charlson-comorbidities---primary.py
+inputModule266:
+  class: File
+  path: python/bullous-charlson-comorbidities---primary.py
+inputModule267:
+  class: File
+  path: python/charlson-comorbidities-groin---primary.py
+inputModule268:
+  class: File
+  path: python/charlson-comorbidities-emergency---primary.py
+inputModule269:
+  class: File
+  path: python/charlson-comorbidities-cleaved---primary.py
+inputModule270:
+  class: File
+  path: python/vascular-charlson-comorbidities---primary.py
+inputModule271:
+  class: File
+  path: python/charlson-comorbidities-cellularity---primary.py
+inputModule272:
+  class: File
+  path: python/lymphocytichistiocytic-charlson-comorbidities---primary.py
+inputModule273:
+  class: File
+  path: python/charlson-comorbidities-prostate---primary.py
+inputModule274:
+  class: File
+  path: python/charlson-comorbidities-epithelioma---primary.py
+inputModule275:
+  class: File
+  path: python/charlson-comorbidities-granuloma---primary.py
+inputModule276:
+  class: File
+  path: python/charlson-comorbidities-portion---primary.py
+inputModule277:
+  class: File
+  path: python/common-charlson-comorbidities---primary.py
+inputModule278:
+  class: File
+  path: python/charlson-comorbidities-sarcoma---primary.py
+inputModule279:
+  class: File
+  path: python/charlson-comorbidities-orifice---primary.py
+inputModule280:
+  class: File
+  path: python/charlson-comorbidities-injection---primary.py
+inputModule281:
+  class: File
+  path: python/peptic-charlson-comorbidities---primary.py
+inputModule282:
+  class: File
+  path: python/lacrimal-charlson-comorbidities---primary.py
+inputModule283:
+  class: File
+  path: python/myopathy-charlson-comorbidities---primary.py
+inputModule284:
+  class: File
+  path: python/parotid-charlson-comorbidities---primary.py
+inputModule285:
+  class: File
+  path: python/charlson-comorbidities-auditory---primary.py
+inputModule286:
+  class: File
+  path: python/charlson-comorbidities-kahler's---primary.py
+inputModule287:
+  class: File
+  path: python/charlson-comorbidities-berylliosis---primary.py
+inputModule288:
+  class: File
+  path: python/charlson-comorbidities-bones---primary.py
+inputModule289:
+  class: File
+  path: python/charlson-comorbidities-ankle---primary.py
+inputModule290:
+  class: File
+  path: python/charlson-comorbidities-guglielmo's---primary.py
+inputModule291:
+  class: File
+  path: python/charlson-comorbidities-thymu---primary.py
+inputModule292:
+  class: File
+  path: python/charlson-comorbidities-fibrosis---primary.py
+inputModule293:
+  class: File
+  path: python/charlson-comorbidities-retroperitoneum---primary.py
+inputModule294:
+  class: File
+  path: python/charlson-comorbidities-degen---primary.py
+inputModule295:
+  class: File
+  path: python/mesenteric-charlson-comorbidities---primary.py
+inputModule296:
+  class: File
+  path: python/autonomic-charlson-comorbidities---primary.py
+inputModule297:
+  class: File
+  path: python/charlson-comorbidities-sequoiosis---primary.py
+inputModule298:
+  class: File
+  path: python/charlson-comorbidities-ileum---primary.py
+inputModule299:
+  class: File
+  path: python/charlson-comorbidities-surface---primary.py
+inputModule300:
+  class: File
+  path: python/charlson-comorbidities-caplan's---primary.py
+inputModule301:
+  class: File
+  path: python/charlson-comorbidities-byssinosis---primary.py
+inputModule302:
+  class: File
+  path: python/charlson-comorbidities-sezary---primary.py
+inputModule303:
+  class: File
+  path: python/charlson-comorbidities-ovary---primary.py
+inputModule304:
+  class: File
+  path: python/charlson-comorbidities-cuneiform---primary.py
+inputModule305:
+  class: File
+  path: python/faucial-charlson-comorbidities---primary.py
+inputModule306:
+  class: File
+  path: python/charlson-comorbidities-vulva---primary.py
+inputModule307:
+  class: File
+  path: python/charlson-comorbidities-pancoast's---primary.py
+inputModule308:
+  class: File
+  path: python/severe-charlson-comorbidities---primary.py
+inputModule309:
+  class: File
+  path: python/interstitial-charlson-comorbidities---primary.py
+inputModule310:
+  class: File
+  path: python/charlson-comorbidities-suberosis---primary.py
+inputModule311:
+  class: File
+  path: python/charlson-comorbidities-stannosis---primary.py
+inputModule312:
+  class: File
+  path: python/charlson-comorbidities-onset---primary.py
+inputModule313:
+  class: File
+  path: python/lateral-charlson-comorbidities---primary.py
+inputModule314:
+  class: File
+  path: python/charlson-comorbidities-phaeochromocytoma---primary.py
+inputModule315:
+  class: File
+  path: python/charlson-comorbidities-dorsal---primary.py
+inputModule316:
+  class: File
+  path: python/charlson-comorbidities-plasmacytoma---primary.py
+inputModule317:
+  class: File
+  path: python/focal-charlson-comorbidities---primary.py
+inputModule318:
+  class: File
+  path: python/charlson-comorbidities-septum---primary.py
+inputModule319:
+  class: File
+  path: python/charlson-comorbidities-lung---primary.py
+inputModule320:
+  class: File
+  path: python/charlson-comorbidities-hypernephroma---primary.py
+inputModule321:
+  class: File
+  path: python/renal-charlson-comorbidities---primary.py
+inputModule322:
+  class: File
+  path: python/charlson-comorbidities-perforated---primary.py
+inputModule323:
+  class: File
+  path: python/charlson-comorbidities-retina---primary.py
+inputModule324:
+  class: File
+  path: python/output-cases.py
